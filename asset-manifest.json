@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/movie-streaming-app/static/css/main.4a4ae68c.css",
-    "main.js": "/movie-streaming-app/static/js/main.69a298c7.js",
-    "index.html": "/movie-streaming-app/index.html",
-    "main.4a4ae68c.css.map": "/movie-streaming-app/static/css/main.4a4ae68c.css.map",
-    "main.69a298c7.js.map": "/movie-streaming-app/static/js/main.69a298c7.js.map"
+    "main.css": "/netflix-clone/static/css/main.4a4ae68c.css",
+    "main.js": "/netflix-clone/static/js/main.69a298c7.js",
+    "index.html": "/netflix-clone/index.html",
+    "main.4a4ae68c.css.map": "/netflix-clone/static/css/main.4a4ae68c.css.map",
+    "main.69a298c7.js.map": "/netflix-clone/static/js/main.69a298c7.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4ae68c.css",
