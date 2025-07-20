@@ -113,21 +113,21 @@ function App() {
           id: 12,
           title: "노트북",
           image:
-            "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop&q=80",
           rating: 4.8,
         },
         {
           id: 13,
           title: "타이타닉",
           image:
-            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1543852786-1cf6624b9987?w=300&h=450&fit=crop&q=80",
           rating: 4.6,
         },
         {
           id: 14,
           title: "500일의 썸머",
           image:
-            "https://images.unsplash.com/photo-1633613286991-611fe299c4be?w=300&h=450&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop&q=80",
           rating: 4.9,
         },
         {
